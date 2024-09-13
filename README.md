@@ -1,4 +1,5 @@
-<h2 align="left">Eaii, me chamo Ferdinando Rainert...</h2>
+<h2 align="left">Eaii, me chamo Ferdinando Rainert e sou programador Full Stack...</h2>
+<p>Pessoal, aqui temos meu portifólio, algumas coisas que venho aprendendo desde o curso técnico, curso de desenvolvimento Full Stack e agora na faculdade de Ciência da Computação, tenho alguns projetos inacabados, mas esotu trabalhando para finalizar todos eles!!</p>
 
 ###
 
